@@ -83,6 +83,9 @@ public class InterpretDrawingFile {
 			}
 		}
 		
+		
+		
+		 
 		// if ellipse, use StdDraw.ellipse(double x, double y, double semiMajorAxis, double semiMinorAxis)
 		// if triangle, use StdDraw.polygon(double[] x, double[] y) or StdDraw.filledPolygon(double[] x, double[] y) because there is no specific triangle method
 		
